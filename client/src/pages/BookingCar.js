@@ -102,7 +102,7 @@ function BookingCar({ match }) {
               setShowModal(true);
             }}
           >
-            See Booked Slots
+            See Your Booked Slots
           </button>
           {from && to && (
             <div>
